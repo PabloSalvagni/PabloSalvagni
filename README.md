@@ -10,7 +10,7 @@ Currently focused on **React**, **Redux**, **Node.js**, **PostgreSQL**, and **Go
 ### 🧠 About Me
 
 - 🧩 Passionate about functional design and clean architecture.  
-- 🌱 🌱 Exploring backend development with Node.js, bridging logic and design to deliver complete user experiences.  
+- 🌱 Exploring backend development with Node.js, bridging logic and design to deliver complete user experiences.  
 - 🎯 Interested in projects that blend **data visualizations**, **video streaming**, and **real-time dashboards**.  
 - 🏙 Based in Argentina 🇦🇷, working remotely with international teams.  
 
