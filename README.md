@@ -61,4 +61,4 @@ Currently focused on **React**, **Redux**, **Node.js**, **PostgreSQL**, and **Go
 
 ---
 
-⭐️ If any of my projects inspired you or proved useful, feel free to leave a star!
+⭐️ If you what a see the code of some project, let me know and I shared to you!
