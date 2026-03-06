@@ -52,7 +52,7 @@ Currently focused on **React**, **Redux**, **Node.js**, **PostgreSQL**, and **Go
 
 [![LinkedIn](https://img.shields.io/badge/-Pablo_Salvagni-blue?logo=Linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pablosalvagni)
 [![Email](https://img.shields.io/badge/-pablosalvagni%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:pablosalvagni@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=githubpages&style=flat-square)](https://pablosalvagni.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=githubpages&style=flat-square)](https://github.com/pablosalvagni)
 
 ---
 
