@@ -33,17 +33,17 @@ Currently focused on **React**, **Redux**, **Node.js**, **PostgreSQL**, and **Go
 
 | Project | Description | Stack |
 |----------|--------------|--------|
-| 🛰️ **wXckedEye** | Real-time dashboard for network traffic visualization with nodes, protocols, and streams. | React, Redux, D3, WebSockets |
-| ⚙️ **INGESUR** | Oil & Gas services provider with focus on brand identity, UX, and digital communication. | Angular · Product catalog · Industry services and completed projects |
 | 🌾 **Stock Agro / Seda Agro** | Agricultural campaign management system: stock, fields, delivery notes, and traceability. | React, Node.js, PostgreSQL |
 | 📸 **App-Fotos** | Event photo management platform with Google Drive uploads and client QR access. | React, Node.js, Cloudinary |
+| 🛰️ **wXckedEye** | Real-time dashboard for network traffic visualization with nodes, protocols, and streams. | React, Redux, D3, WebSockets |
+| ⚙️ **INGESUR** | Oil & Gas services provider with focus on brand identity, UX, and digital communication. | Angular · Product catalog · Industry services and completed projects |
 
 ---
 
 ### 📈 What I'm Working On
 
+- 🧠 Learning while doing a **Specialization in AI at FIUBA (University of Buenos Aires, Faculty of Engineering)**, understanding the whys and what this current world is about.
 - ⚙️ Restructuring my projects into a modular architecture (Redux + custom Hooks).  
-- 🧠 Exploring **AI for web development** and **data analytics**.  
 - 🪄 Improving my technical portfolio and project documentation on GitHub.  
 
 ---
