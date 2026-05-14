@@ -3,7 +3,7 @@
 💻 **Frontend Developer | UI/UX Specialist | Full-Stack Developer in progress**
 
 With 10+ years of experience crafting interfaces and digital experiences.  
-Currently focused on **React**, **Redux**, **Node.js**, **PostgreSQL**, and **Go**, combining design, logic, and performance to build products with identity and purpose.
+Currently focused on **React**, **Redux**, **Node.js**, **PostgreSQL**, **Typescript** and **Go**, combining design, logic, and performance to build products with identity and purpose.
 
 ---
 
