@@ -33,10 +33,12 @@ Currently focused on **React**, **Redux**, **Node.js**, **PostgreSQL**, **Typesc
 
 | Project | Description | Stack |
 |----------|--------------|--------|
+| 🏋️ [**GymApp Showcase**](https://github.com/PabloSalvagni/gym-app-showcase/) | Multi-tenant SaaS platform to digitize gym screens. Features real-time updates via WebSockets, Shared Schema database architecture, and 100% containerized deployment. | React, TypeScript, Node.js, PostgreSQL, Socket.io, Docker |
 | 🌾 **Stock Agro / Seda Agro** | Agricultural campaign management system: stock, fields, delivery notes, and traceability. | React, Node.js, PostgreSQL |
 | 📸 **App-Fotos** | Event photo management platform with Google Drive uploads and client QR access. | React, Node.js, Cloudinary |
 | 🛰️ **wXckedEye** | Real-time dashboard for network traffic visualization with nodes, protocols, and streams. | React, Redux, D3, WebSockets |
 | ⚙️ **INGESUR** | Oil & Gas services provider with focus on brand identity, UX, and digital communication. | Angular · Product catalog · Industry services and completed projects |
+
 
 ---
 
